@@ -1,1 +1,1 @@
-#### lawfare repository
+legal research and writing repository
