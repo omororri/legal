@@ -1,1 +1,7 @@
-legal research and writing repository
+```json
+{
+    "repository": {
+        "name": "legal",
+        "subtitle": "legal reference"
+    }
+}
